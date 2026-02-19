@@ -1,8 +1,8 @@
 # 📜 Bash Scripting Project - Homework 2
 
 ## 👥 Team Members
-*	**Harel**
-*	**Ori**
+*	**Harel Mashiah 206375081**
+*	**Ori Marko **
 
 ---
 
@@ -61,3 +61,4 @@ Run the scripts from the root directory using the `./scripts/` path. The example
 	./scripts/compare_files.sh ./ori_tests/compare_test/file1.txt ./ori_tests/compare_test/file2.txt
 	./scripts/check_internet.sh
 ```
+
